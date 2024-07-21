@@ -16,14 +16,16 @@ Para utilizar este gestor de tareas, asegúrate de tener Go instalado en tu sist
 
 ### Instalación
 
-Clona este repositorio:
+1. Haz un fork de este repositorio haciendo clic en el botón "Fork" en la parte superior derecha de esta página.
+
+2. Clona tu fork a tu máquina local:
 
 ```bash
-git clone https://github.com/Gognition/gognition-nivel3-gestor-tareas.git
+git clone https://github.com/TU_USUARIO/gognition-nivel3-gestor-tareas.git
 ```
 
 ## 💻️ Uso
-Para ejecutar la calculadora de IMC
+Para ejecutar el gestor de tareas
 ```bash
 go run main.go
 ```
